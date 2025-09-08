@@ -19,18 +19,6 @@
 
 ---
 
-## 📌 Featured Projects
-- **[Adroit Achievers – Skill Marketplace](#)** 🎯  
-  A platform for students to showcase and exchange skills | Tech: Bootstrap, MySQL, PHP  
-
-- **[Blood Bank Management System](#)** 🩸  
-  A DBMS project for real-time donor & inventory management | Tech: PHP, MySQL, HTML/CSS  
-
-- **[Cybersecurity Triage Tool](#)** 🔐  
-  Built for SIH 2024 to streamline forensic investigations | Tech: Python, Flask, MySQL  
-
----
-
 ## 🏆 Achievements
 - 🎓 Topper (VTU – 1st Year) with **9.35 SGPA**  
 - 🥇 **Smart India Hackathon 2024 Finalist** (Team InnovateX)  
@@ -46,10 +34,10 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](your-leetcode-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soujanya-shanbhag-04ab33290/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://soujanya-37.github.io/MyPortfolio/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/profile/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soujanya_shanbhag/)  
 
 ---
 

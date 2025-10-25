@@ -20,7 +20,7 @@
 ---
 
 ## 🏆 Achievements
-- 🎓 Topper (VTU – 1st Year) with **9.35 SGPA**  
+- 🎓 Topper (VTU) with **9.35 SGPA**  
 - 🥇 **Smart India Hackathon 2024 Finalist** (Team InnovateX)  
 - 💼 Completed **UI/UX Internship at Zoro Innovation**  
 - 🌱 Contributed to multiple **college projects & hackathons**  
